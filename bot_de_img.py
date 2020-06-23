@@ -8,6 +8,8 @@ user_agent="<console:redditbot:0.1 (by /u/bot_lulup)>",
 username ='bot_lulup',
 password='*******')
 
+reddit.validate_on_submit = True
+
 subreddits = ['testingground4bots', 'testabot']
 pos = 0
 errors = 0
