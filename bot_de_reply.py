@@ -6,7 +6,7 @@ reddit = praw.Reddit(client_id='v4WhY4bZgiJusw',
 client_secret='vT5rTvwdlLh49qV0_6VPl7Nd06c', 
 user_agent="<console:reddit_bot:0.1>",
 username ='bot_lulup',
-password='pedro123*'
+password='INSIRA SUA SENHA'
 )
 
 subreddit = reddit.subreddit("testabot")
